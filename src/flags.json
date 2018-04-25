@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "image": ""
+  }
+]
