@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import FlagCard from "/FlagCard/FlagCard";
-import Wrapper from "/Wrapper/Wrapper";
-import Title from "/Title/Title";
-import flags from "flags.json";
+import FlagCard from "./components/FlagCard/FlagCard";
+import Wrapper from "./components/Wrapper/Wrapper";
+import Title from "./components/Title/Title";
+import flags from "./flags.json";
 import "./App.css";
 
 class App extends Component {

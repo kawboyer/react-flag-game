@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/FlagCard.css";
+import "../../styles/FlagCard.css";
 
 const FlagCard = props => (
   <div className="card">
