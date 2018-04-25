@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import FlagCard from "./components/FlagCard";
-import Wrapper from "./components/Wrapper";
-import Title from ".components/Title";
-import flags from "./flags.json";
+import FlagCard from "/FlagCard/FlagCard";
+import Wrapper from "/Wrapper/Wrapper";
+import Title from "/Title/Title";
+import flags from "flags.json";
 import "./App.css";
 
 class App extends Component {
@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Flag List</Title>
-        {this.state.friends.map(flag => (
+        {this.state.flags.map(flag => (
           <FlagCard
           id={flag.id}
           key={flag.id}

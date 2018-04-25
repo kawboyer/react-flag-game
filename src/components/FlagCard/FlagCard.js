@@ -1,5 +1,5 @@
 import React from "react";
-import "./FlagCard";
+import "./styles/FlagCard.css";
 
 const FlagCard = props => (
   <div className="card">
@@ -9,15 +9,15 @@ const FlagCard = props => (
     <div className="content">
       <ul>
         <li>
-          <strong>Country:</strong> {props.name}
+          <strong>Country:</strong> {props.country}
         </li>
         <li>
           <strong>Capital:</strong> {props.capital}
         </li>
       </ul>
     </div>
-    <span onClick={() => props.shuffleFlag(props.id)} className="shuffle">
-    </span>
+    {/* <span onClick={() => props.shuffleFlag(props.id)} className="shuffle"> */}
+    {/* </span> */}
   </div>
 );
 

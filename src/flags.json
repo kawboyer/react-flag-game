@@ -1,14 +1,74 @@
 [
   {
     "id": 1,
-    "country": "Denmark",
-    "capital": "Copenhagen",
-    "image": ""
+    "country": "Austria",
+    "capital": "Vienna",
+    "image": "/images/austria.jpg"
   },
   {
     "id": 2,
+    "country": "Belgium",
+    "capital": "Brussels",
+    "image": "/images/belgium.jpg"
+  },
+  {
+    "id": 3,
+    "country": "Czech Republic",
+    "capital": "Prague",
+    "image": "/images/czech.jpg"
+  },
+  {
+    "id": 4,
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "image": "/images/denmark.jpg"
+  },
+  {
+    "id": 5,
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "image": "/images/estonia.jpg"
+  },
+  {
+    "id": 6,
+    "country": "Finland",
+    "capital": "Helsinki",
+    "image": "/images/finland.jpg"
+  },
+  {
+    "id": 7,
+    "country": "France",
+    "capital": "Paris",
+    "image": "/images/france.jpg"
+  },
+  {
+    "id": 8,
+    "country": "Greece",
+    "capital": "Athens",
+    "image": "/images/greece.jpg"
+  },
+  {
+    "id": 9,
+    "country": "Iceland",
+    "capital": "Reykjavik",
+    "image": "/images/iceland.jpg"
+  },
+  {
+    "id": 10,
+    "country": "Ireland",
+    "capital": "Dublin",
+    "image": "/images/ireland.jpg"
+  },
+  {
+    "id": 11,
+    "country": "Italy",
+    "capital": "Rome",
+    "image": "/images/italy.jpg"
+  },
+  {
+    "id": 12,
     "country": "Lithuania",
     "capital": "Vilnius",
-    "image": ""
+    "image": "/images/lithuania.jpg"
   }
 ]
